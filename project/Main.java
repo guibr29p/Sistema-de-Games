@@ -3,7 +3,16 @@ package project;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+/** 
+Grupo:
+NOME: Guilherme C.M  RA:925110655.
+NOME: Gideão M  RA:925108311.
+NOME: Willian M RA:925109803.
+NOME: Samara B RA: 925108078.
+NOME: Jeniffer O.F RA:925115615.
+NOME: Felipe S.C RA:925108896.
+NOME: Christian M.O RA:925111139.
+**/
 public class Main {
     private static final Scanner sc = new Scanner(System.in);
 
@@ -309,3 +318,4 @@ public class Main {
         }
     }
 }
+
